@@ -1,0 +1,36 @@
+QOTD+ Terms Last updated: 04/04/2026
+
+Definitions
+User - The user who owns a server with QOTD+ or runs commands on QOTD+.
+Owner - The owner of QOTD+ Toytom13rblx
+Moderator - A user with elevated permissions and can approve or deny suggestions.
+TOS - These Terms
+Discord server - A server on the platform Discord
+Command - All commands registered with Discord
+Bot - The application that these terms are for.
+Suggestion - A QOTD suggestion that a user has sent
+
+Agreement
+The user agrees to our TOS, Privacy Policy and Discords Terms of Service by adding the bot to their discord server or running a command. Additionally, continued use after an update to these Terms or Privacy Policy means you have agreed to them.
+
+Eligibility: By using the Bot, the User represents that they are at least 13 years of age (or the minimum age of digital consent in their country of residence).
+
+Usage
+By installing this discord bot you have been granted a temporary non-exclusive licence to use the bot, this license can be revoked at any time, with no notice. Users may also not use the Bot to violate Discord’s Community Guidelines, spam commands to stress-test the infrastructure, or attempt to reverse-engineer the Bot’s source code without permission.
+
+Data Collection
+We collect your discord user ID and your username, along with any servers you own with the bot and any suggestions you send. If you would like to request a copy of data we have on you or request to delete it please view our Privacy Policy for details. We do not knowingly collect data of anyone under 13.
+
+Limitation of Liability
+This discord bot (QOTD+) is provided to the user free of charge and “as is” and QOTD+ is not liable for any outages. QOTD+ does not guarantee that if any future or present features get placed behind voting on the website Top.gg or a paywall you will keep access to the features without notice. The owner (Toytom13rblx) is not responsible for any damages caused by the bot, by use or misuse of this bot.
+
+Termination
+Our moderators reserve the rights to remove our bot from the users discord server for any reason with no notice. We reserve the right to reject any QOTD suggestions, for any reason even if not stated in the command /qotd-rules.
+
+Rules and guidelines
+The user can access our rules and guidelines via the commands, /qotd-rules and /rating-info.
+
+Contact
+The user can contact a developer, moderator and the owner via our support server on discord. This can be accessed via the command /server of this link: https://discord.gg/Tap8kBQR5D 
+
+
