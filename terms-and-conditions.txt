@@ -22,7 +22,7 @@ Data Collection
 We collect your discord user ID and your username, along with any servers you own with the bot and any suggestions you send. If you would like to request a copy of data we have on you or request to delete it please view our Privacy Policy for details. We do not knowingly collect data of anyone under 13.
 
 Limitation of Liability
-This discord bot (QOTD+) is provided to the user free of charge and “as is” and QOTD+ is not liable for any outages. QOTD+ does not guarantee that if any future or present features get placed behind voting on the website Top.gg or a paywall you will keep access to the features without notice. The owner (Toytom13rblx) is not responsible for any damages caused by the bot, by use or misuse of this bot.
+This discord bot (QOTD+) is provided to the user free of charge and “as is” and QOTD+ is not liable for any outages. QOTD+ does not guarantee that if any future or present features get placed behind voting on the website Top.gg or a paywall with or without notice you will keep access to the features. The owner (Toytom13rblx) is not responsible for any damages caused by the bot, by use or misuse of this bot.
 
 Termination
 Our moderators reserve the rights to remove our bot from the users discord server for any reason with no notice. We reserve the right to reject any QOTD suggestions, for any reason even if not stated in the command /qotd-rules.
