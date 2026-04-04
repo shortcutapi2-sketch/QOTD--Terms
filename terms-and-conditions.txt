@@ -31,6 +31,6 @@ Rules and guidelines
 The user can access our rules and guidelines via the commands, /qotd-rules and /rating-info.
 
 Contact
-The user can contact a developer, moderator and the owner via our support server on discord. This can be accessed via the command /server of this link: https://discord.gg/Tap8kBQR5D 
+The user can contact a developer, moderator and the owner via our support server on discord. This can be accessed via the command /server or this link: https://discord.gg/Tap8kBQR5D 
 
 
