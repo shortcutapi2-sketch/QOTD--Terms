@@ -1,0 +1,23 @@
+QOTD+ Privacy Policy Last updated: 04/04/2026
+
+Data We Collect:
+We (QOTD+) collect you discord user ID, Discord server ID, Discord server name and username when you add QOTD+ to your server or suggest a question. We also collect any data you submit via any of our commands.
+
+How we use your data.
+We use your data to identify who suggested a question, so if we need to revoke the users acccess we have their information.
+We also  use your data for internal analytics and contacting you.
+
+Data Sharing:
+We do not sell your data, although data is shared with:
+Discord - Via Standard API operations
+Law enforcement - If requested via legal means
+
+Data retention and deletion
+We retain data only as long as necessary to provide our services or for moderation purposes.
+You may request the deletion of your data at any time via our Support Server (https://discord.gg/Tap8kBQR5D).
+Please note that data may persist in our encrypted backups for up to 14 days after a deletion request is processed.
+Certain data within moderation logs (such as ban records) may be retained to ensure the continued safety of the service.
+You may request a copy of your stored data via our Support Server (https://discord.gg/Tap8kBQR5D). We reserve the right to redact other users' names from moderation logs to protect their privacy. 
+
+Child Data rights
+In compliance with COPPA, we do not knowingly collect data from children under the age of 13. If we become aware that such data has been collected, it will be deleted immediately. 
