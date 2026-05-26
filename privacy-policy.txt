@@ -1,7 +1,7 @@
-QOTD+ Privacy Policy Last updated: 04/04/2026
+QOTD+ Privacy Policy Last updated: 26/05/2026
 
 Data We Collect:
-We (QOTD+) collect you discord user ID, Discord server ID, Discord server name and username when you add QOTD+ to your server or suggest a question. We also collect any data you submit via any of our commands.
+We (QOTD+) collect your discord user ID, Discord server ID, Discord server name and username when you add QOTD+ to your server or suggest a question. We also collect any data you submit via any of our commands.
 
 How we use your data.
 We use your data to identify who suggested a question, so if we need to revoke the users acccess we have their information.
